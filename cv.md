@@ -1,14 +1,14 @@
-#Sergey Kozlov
+# Sergey Kozlov
 
-##Contacts 
+## Contacts 
 
-###Location:
+### Location:
 Minsk, Belarus
-###Phone:
+### Phone:
 +375 25 980 47 32
-###Telegram:
+### Telegram:
 @Serj_you
-###GitHub:
+### GitHub:
 @NewPointJava
 
-##About Me
+## About Me
