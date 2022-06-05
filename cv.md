@@ -2,8 +2,7 @@
 
 ## Contacts 
 
-### Location:
-Minsk, Belarus
+### Location: ### Minsk, Belarus
 ### Phone:
 +375 25 980 47 32
 ### Telegram:
