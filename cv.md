@@ -12,3 +12,4 @@ Minsk, Belarus
 @NewPointJava
 
 ## About Me
+I`m  a good person
