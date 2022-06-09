@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NewPointJava.github.io/rsschool-cv/
